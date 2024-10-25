@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm KHALIL HAIMER</h1>
 <h3 align="center">1337Med Student.</h3>
 
-[![khaimer's 42 stats](https://badge.mediaplus.ma/binary/khaimer)](https://github.com/oakoudad/badge42)
+<div align="center">
+  
+  [![khaimer's 42 stats](https://badge.mediaplus.ma/binary/khaimer)](https://github.com/oakoudad/badge42)
+
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxluciferx&label=Profile%20views&color=0e75b6&style=flat" alt="xxxluciferx" /> </p>
