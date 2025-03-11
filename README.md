@@ -3,7 +3,6 @@
 
 <div align="center">
   
-  [![khaimer's 42 stats](https://badge.mediaplus.ma/binary/khaimer)](https://github.com/oakoudad/badge42)
   [![khaimer's 42 stats](https://badge.mediaplus.ma/greenbinary/khaimer)](https://github.com/oakoudad/badge42)
 
 </div>
