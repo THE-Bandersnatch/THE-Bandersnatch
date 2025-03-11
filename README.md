@@ -11,17 +11,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=THE-Bandersnatchx&label=Profile%20views&color=0e75b6&style=flat" alt="THE-Bandersnatchx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=THE-Bandersnatchx" alt="THE-Bandersnatchx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/khalilhaimer1" target="blank"><img src="https://img.shields.io/twitter/follow/khalilhaimer1?logo=twitter&style=for-the-badge" alt="khalilhaimer1" /></a> </p>
 
-- 🔭 I’m currently working on **42Cursus**
+- 🔭 I’m currently working on **42Internship** // LABGENZ
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **REST API, PHP...**
 
 - 💬 Ask me about **ANYTHING**
-
-- ⚡ Fun fact **don't employ me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
