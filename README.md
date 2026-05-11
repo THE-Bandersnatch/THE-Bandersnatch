@@ -14,12 +14,6 @@
 
 <p align="left"> <a href="https://twitter.com/khalilhaimer1" target="blank"><img src="https://img.shields.io/twitter/follow/khalilhaimer1?logo=twitter&style=for-the-badge" alt="khalilhaimer1" /></a> </p>
 
-- 🔭 I’m currently working on **42Internship** // LABGENZ
-
-- 🌱 I’m currently learning **REST API, PHP...**
-
-- 💬 Ask me about **ANYTHING**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khalilhaimer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalilhaimer1" height="30" width="40" /></a>
